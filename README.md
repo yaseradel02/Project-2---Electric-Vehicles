@@ -7,8 +7,8 @@
 - This project studies the State of Washington data base of electric vehicles from the oldest model of 1997 to the newest ones in 2024
 
 - Limitations:
-  - %98.12 of the Data Frame is missing the "Base MSRP"
-  - %51.69 of the Data Frame is missing the "Electric Range"
+  - 98.12% of the Data Frame is missing the "Base MSRP"
+  - 51.69% of the Data Frame is missing the "Electric Range"
 
 The "Yaser_Abdulla_Project_2.ipynb" file shows handling the data and creating new variable called `is_TESLA` to differentiate between TESLA vehicles and others, then it visualize the growth of the electric vehicles market and compares the growth of TESLA and others. The next step in the file is comparing the CAFV percentage between TESLA and competition. Finally the notebook compare between the battery types and exclude the unwanted type for visualizing and comparing the ranges of the electric vehicles.
 
